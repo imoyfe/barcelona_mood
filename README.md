@@ -1,9 +1,9 @@
-#### WHAT IF you could know...
-##### *What is the mood of your city today?*
+### WHAT IF you could know...
+#### *What is the mood of your city today?*
 
 An NLP project that analyzes the sentiment on the comments from people in Barcelona (about 400 comments).
 
-[BCN MOOD MAP](./images/bcn_mood.png)
+![BCN MOOD MAP](./images/bcn_mood.png)
 Tweet data collected from 24th to 29th November 2020.
 
 
