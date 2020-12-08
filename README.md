@@ -5,11 +5,13 @@ An NLP project that analyzes the sentiment on the comments from people in Barcel
 
 ![BCN MOOD MAP](./images/bcn_mood.png)
 
+* Negative comments re located in:
 ![BCN MOOD MAP](./images/negative_mood.png)
 
+* Positive comments are located in:
 ![BCN MOOD MAP](./images/positive_mood.png)
 
-Tweet data collected from 24th to 29th November 2020.
+*NOTE: Tweet data collected from 24th to 29th November 2020.*
 
 
 
