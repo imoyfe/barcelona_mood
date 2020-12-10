@@ -3,7 +3,7 @@
 
 An NLP project that analyzes the sentiment on the comments from people in Barcelona (about 400 comments).
 
-![BCN MOOD MAP](./images/bcn_mood.png)
+![BCN MOOD MAP](./images/bcn_neighborhood_mood.png)
 
 * Negative comments re located in:
 ![BCN MOOD MAP](./images/negative_mood.png)
